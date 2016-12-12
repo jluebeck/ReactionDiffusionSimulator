@@ -21,7 +21,7 @@ Instead uses the Gierer-Meinhardt activator-inhibitor model (-gm).
 Currently supports the following reaction-diffusion systems (output results of ReactionDiffusion.py shown below).
 
 ### Gray-Scott
-["Complex Patterns in a Simple System, John Pearson, <i>Science<i/> 1993](https://www.ljll.math.upmc.fr/hecht/ftp/ff++/2015-cimpa-IIT/edp-tuto/Pearson.pdf)
+["Complex Patterns in a Simple System, John Pearson, *Science* 1993](https://www.ljll.math.upmc.fr/hecht/ftp/ff++/2015-cimpa-IIT/edp-tuto/Pearson.pdf)
 
 ####Solitons
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png" width="640">
@@ -42,11 +42,11 @@ Currently supports the following reaction-diffusion systems (output results of R
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/worms.png" width="640">
 
 ### FitzHugh-Nagumo
-["FitzHugh–Nagumo model, <i>Wikipedia<i>](https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model)
+["FitzHugh–Nagumo model, *Wikipedia*](https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model)
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/fitzhugh_nagumo.png" width="640">
 
 ### Gierer-Meinhardt
-["Gierer-Meinhardt model, <i>Scholarpedia<i>](http://www.scholarpedia.org/article/Gierer-Meinhardt_model)
+["Gierer-Meinhardt model, *Scholarpedia*](http://www.scholarpedia.org/article/Gierer-Meinhardt_model)
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/gierer_meinhardt.png" width="640">
 
 
