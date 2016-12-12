@@ -21,6 +21,8 @@ Instead uses the Gierer-Meinhardt activator-inhibitor model (-gm).
 Currently supports the following reaction-diffusion systems
 
 ### Gray-Scott
+["Complex Patterns in a Simple System, John Pearson, <i>Science<\i> 1993](https://www.ljll.math.upmc.fr/hecht/ftp/ff++/2015-cimpa-IIT/edp-tuto/Pearson.pdf)
+
 ####Solitons
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png" width="640">
 
