@@ -24,7 +24,7 @@ Currently supports the following reaction-diffusion systems
 ####Solitons
 ![alt text][solitons]
 
-[logo]: https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png "Solitons"
+[solitons]: https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png "Solitons"
 
 ####Coral
 
