@@ -22,9 +22,7 @@ Currently supports the following reaction-diffusion systems
 
 ### Gray-Scott
 ####Solitons
-![alt text][solitons]
-
-[solitons]: https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png "Solitons"
+<img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png" width="640">
 
 ####Coral
 
