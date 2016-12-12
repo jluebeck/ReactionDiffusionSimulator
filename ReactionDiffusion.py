@@ -140,13 +140,13 @@ def setModelParams(model):
     if model == "FN":
         print "FitzHugh-Nagumo model selected"
         modelFunc = FN
-        print "SETTING GRID SIZE TO 100 - STABILITY REASONS"
-        print "WARNING: IF TIMESTEPS LESS THAN 50000, NO PATTERN MAY APPEAR"
+        print "SETTING GRID SIZE TO 120 - STABILITY REASONS"
+        print "WARNING: IF TIMESTEPS LESS THAN 80000, NO PATTERN MAY APPEAR"
         #FitzHugh-Nagumo requires fine-timestepping
-        size = 100
+        size = 120
         dx = 2./size
         dt = 0.9 * dx**2/2
-        params = {"Du":5e-3, "Dv":2.8e-4, "tau":0.1, "k":-0.005,"myCmap":plt.cm.copper,"edgeMax":False,"dt":dt,"dx":dx,"seed":"noise"}
+        params = {"Du":5e-3, "Dv":2.8e-4, "tau":0.1, "k":-0.005,"myCmap":plt.cm.PRGn,"edgeMax":False,"dt":dt,"dx":dx,"seed":"noise"}
         params["seed"] = "noise"
 
     elif model == "GM":
@@ -230,7 +230,7 @@ if __name__ == "__main__":
         os.makedirs(savPath)
 
     #set up image saving
-    totFrames = 200
+    totFrames = 250
     movieOutput = False
     n = args.timesteps
     print "Running simulation with " + str(n) + " timesteps."
