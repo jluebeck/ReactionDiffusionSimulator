@@ -1,4 +1,5 @@
 # ReactionDiffusionSimulator
+###Jens Luebeck
 Simulates Reaction Diffusion models
 This tool simulates a number of reaction-diffusion systems and produces Turing patterns. Optionally, the images may be saved sequentially and can output images to string together in an animation.
 
