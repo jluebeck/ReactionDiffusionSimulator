@@ -5,7 +5,7 @@ Author: Jens Luebeck
 
 [Watch a quick example simulation on YouTube.](https://youtu.be/jFM8qlKXyp0)
 
-##Examples 
+## Examples 
 
 #### Example usage:
 
