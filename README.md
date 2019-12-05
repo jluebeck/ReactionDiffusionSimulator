@@ -3,6 +3,8 @@ Simulates Reaction Diffusion models
 This tool simulates a number of reaction-diffusion systems and produces Turing patterns. Optionally, the images may be saved sequentially and can output images to string together in an animation. 
 Author: Jens Luebeck
 
+[Watch a quick example simulation on YouTube.](https://youtu.be/jFM8qlKXyp0)
+
 ##Examples 
 
 #### Example usage:
