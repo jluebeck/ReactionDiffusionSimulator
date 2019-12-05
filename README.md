@@ -26,22 +26,22 @@ Currently supports the following reaction-diffusion systems (output results of R
 ### Gray-Scott
 ["Complex Patterns in a Simple System", John Pearson, *Science* 1993](https://www.ljll.math.upmc.fr/hecht/ftp/ff++/2015-cimpa-IIT/edp-tuto/Pearson.pdf)
 
-####Solitons
+#### Solitons
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/solitons.png" width="640">
 
-####Coral
+#### Coral
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/coral.png" width="640">
 
-####Maze
+#### Maze
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/maze.png" width="640">
 
-####Waves
+#### Waves
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/waves.png" width="640">
 
-####Flicker
+#### Flicker
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/flicker.png" width="640">
 
-####Worms
+#### Worms
 <img src="https://github.com/jluebeck/ReactionDiffusionSimulator/blob/master/images/worms.png" width="640">
 
 ### FitzHugh-Nagumo
